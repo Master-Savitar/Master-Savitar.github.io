@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bora Jin</title>
+    <title>Haoxuan Wang</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bora Jin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 12:55:07 -0500</lastBuildDate>
+    <!-- <description>Haoxuan Wang</description> -->
+    <!-- <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 12:55:07 -0500</lastBuildDate> -->
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Bora Jin</title>
+      <title>Haoxuan Wang</title>
       <link>/</link>
     </image>
-    
     <item>
       <title>Bag of DAGs: Inferring Directional Dependence in Spatiotemporal Processes</title>
       <link>/project/bags/</link>
@@ -36,7 +35,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>Spatial Predictions on Physically Constrained Domains: Applications to Arctic Sea Salinity Data</title>
       <link>/project/boragp/</link>
@@ -58,7 +56,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>Bayesian Matrix Completion for Hypothesis Testing</title>
       <link>/project/bmc/</link>
@@ -75,7 +72,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>A Unified Bayesian Approach to Overcome Spatial Confounding</title>
       <link>/project/spatial-confounding/</link>
@@ -91,7 +87,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>Effects of PFAS on North Carolina Thyroid Cancer Clusters</title>
       <link>/project/nc-cancer/</link>
@@ -103,7 +98,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>Joint Species Distribution Modeling with Ecological Networks</title>
       <link>/project/hmsc/</link>
@@ -115,7 +109,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
     <item>
       <title>Prediction of Insect-Plant Interaction Networks in an Arctic Community</title>
       <link>/project/network/</link>
@@ -127,6 +120,5 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
   </channel>
 </rss>
