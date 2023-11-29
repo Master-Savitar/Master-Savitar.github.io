@@ -10,7 +10,9 @@
     if (!canChangeTheme()) {
       return;
     }
-    let currentThemeMode = getThemeMode();
+    // let currentThemeMode = getThemeMode();
+    let currentThemeMode = getThemeMode()==1?2:1;
+    console.log(currentThemeMode);
     let isDarkTheme;
     switch (currentThemeMode) {
       case 0:
@@ -37,7 +39,7 @@
   }
 
   // ns-params:@params
-  var wcDarkLightEnabled = true;
+  var wcDarkLightEnabled = false;
   var wcIsSiteThemeDark = false;
 
   // js/wowchemy-init.js
